@@ -1,0 +1,7 @@
+[B][SIZE=5][COLOR=#404040][U]Growreport - Gesamtdauer[/U][/COLOR][/SIZE][/B]
+[B]Aufzucht:[/B] {REPLACE_DAYS_BEGIN}
+[B]Wachstumsphase:[/B] {REPLACE_DAYS_GROW}
+[B]Blütephase:[/B] {REPLACE_DAYS_FLOWER}
+[B]Trocknung:[/B] {REPLACE_DAYS_DRY}
+
+Report von [URL={REPLACE_PROFILE_URL}][I]{REPLACE_PROFILE_NAME}[/I][/URL]
